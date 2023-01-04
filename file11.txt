@@ -1,4 +1,3 @@
-tis is revert file11
-revert file11 11t revert file11
+t revert file11
 testing reset commit 1
 this is file11
