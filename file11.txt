@@ -2,3 +2,4 @@ t revert file11
 testing reset commit 1
 this is file11
 this is comparision lecture 1
+this is my file22
