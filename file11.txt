@@ -2,4 +2,8 @@ t revert file11
 testing reset commit 1
 this is file11
 this is comparision lecture 1
+<<<<<<< Updated upstream
 this is my file22
+=======
+this is filkjsdfosdfksbifbsdbsdsdghghsd
+>>>>>>> Stashed changes
