@@ -1,1 +1,2 @@
 this is file12
+this is comparision lecture 2
